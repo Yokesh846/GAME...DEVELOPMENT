@@ -21,9 +21,9 @@
 
 ## Program :
 
-Name: Dharshini S
+Name:Yokeshwaran A
 
-Reg no: 212224040074
+Reg no: 212224040374
 
 ```
 #include<stdio.h> 
